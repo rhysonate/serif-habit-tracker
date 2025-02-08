@@ -10,6 +10,7 @@ A modern, elegant habit tracking application with a serif-styled interface that 
 - **📱 Responsive Design**: Seamlessly works across desktop, tablet, and mobile devices
 - **🎨 Serif Typography**: Beautiful, readable serif fonts for a classic, professional look
 
+![Demo](https://raw.githubusercontent.com/rhysonate/serif-habit-tracker/main/attached_assets/image_1738302941148.png)
 ## 🛠️ Tech Stack
 
 - **Frontend**: React with TypeScript
